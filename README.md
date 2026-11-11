@@ -13,11 +13,11 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/slider-tiny--slider-555555" alt="tiny-slider">
-  <a href="https://dekciw.github.io/norway/"><img src="https://img.shields.io/badge/GitHub_Pages-online-222222?logo=github&logoColor=white" alt="GitHub Pages"></a>
+  <a href="https://dekciw.github.io/ExploreNorway/"><img src="https://img.shields.io/badge/GitHub_Pages-online-222222?logo=github&logoColor=white" alt="GitHub Pages"></a>
 </p>
 
 <p align="center">
-  <a href="https://dekciw.github.io/norway/">
+  <a href="https://dekciw.github.io/ExploreNorway/">
     <img src="https://img.shields.io/badge/Открыть_в_браузере-2F5D7C?style=for-the-badge" alt="Открыть в браузере">
   </a>
 </p>
